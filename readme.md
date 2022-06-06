@@ -7,5 +7,5 @@ The project is dedicated to image file transfer and is centralized.
 
 
 ### Todo
-⬜ Resize image (png only)
-⬜ Caching
+⬜ Resize image (png only)  
+⬜ Caching  
