@@ -9,3 +9,4 @@ The project is dedicated to image file transfer and is centralized.
 
 ### Todo
 ⬜ with db (test)
+⬜ .env file support
