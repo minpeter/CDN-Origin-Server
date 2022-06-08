@@ -4,8 +4,8 @@ The project is dedicated to image file transfer and is centralized.
 (So this is a CDN right?)  
 
 ### features
-
+✅ Resize image (png only)  
+✅ Caching  
 
 ### Todo
-⬜ Resize image (png only)  
-⬜ Caching  
+⬜ with db (test)
