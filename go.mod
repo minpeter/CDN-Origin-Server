@@ -1,4 +1,4 @@
-module github.com/minpeter/CDN
+module github.com/minpeter/CDN-Origin-Server
 
 go 1.18
 
